@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "EV Energy Advisor",
+    "slug": "ev-energy-advisor-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.ilham.evenergyadvisor",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {}
+    }
+  }
+}
