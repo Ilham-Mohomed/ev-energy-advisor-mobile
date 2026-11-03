@@ -10,7 +10,9 @@
       "versionCode": 1
     },
     "extra": {
-      "eas": {}
+      "eas": {
+         "projectId": "788530d4-75a5-4787-903d-0435556eb899"
+      }
     }
   }
 }
